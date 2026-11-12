@@ -1,0 +1,2 @@
+"""Assignment A pipeline package."""
+
